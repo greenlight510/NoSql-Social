@@ -25,7 +25,7 @@ npm i, npm express, npm mongoDB, npm moment, npm mongoJS.
 
 ## Usage
 
-Nothing at all.
+node server.js needs to be run.
 
 ## License
 
