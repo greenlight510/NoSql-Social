@@ -1,7 +1,6 @@
 {
   "name": "nosql-social",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,7 +11,18 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
+    "moment": "^2.29.1",
+    "mongodb": "^4.3.1",
     "mongojs": "^3.1.0",
-    "mongoose": "^6.1.7"
-  }
+    "mongoose": "^6.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenlight510/NoSql-Social.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greenlight510/NoSql-Social/issues"
+  },
+  "homepage": "https://github.com/greenlight510/NoSql-Social#readme",
+  "description": ""
 }
